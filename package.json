@@ -1,0 +1,27 @@
+{
+  "name": "resumetopdf",
+  "version": "1.0.0",
+  "description": "ResumeToPDF with Puppeteer",
+  "type": "module",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node index.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SombreCode/ResumeToPDF.git"
+  },
+  "keywords": [
+    "puppeteer"
+  ],
+  "author": "SombreCode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SombreCode/ResumeToPDF/issues"
+  },
+  "homepage": "https://github.com/SombreCode/ResumeToPDF#readme",
+  "dependencies": {
+    "puppeteer": "^19.0.0"
+  }
+}
